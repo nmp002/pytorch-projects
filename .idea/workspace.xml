@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c00dc432-ecf0-41be-9493-fd5836171d41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/augmentations.ipynb" afterDir="false" />
+    <list default="true" id="c00dc432-ecf0-41be-9493-fd5836171d41" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/assets/astronaut.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/augmentations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/augmentations.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -72,8 +74,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748543971758</updated>
-      <workItem from="1748543972804" duration="1308000" />
+      <workItem from="1748543972804" duration="2027000" />
     </task>
+    <task id="LOCAL-00001" summary="Helpers script from pytorch documentation">
+      <option name="closed" value="true" />
+      <created>1748545647704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748545647704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1748545662418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748545662418</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1748545667805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748545667805</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +116,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Helpers script from pytorch documentation" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
