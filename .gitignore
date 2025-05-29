@@ -1,1 +1,58 @@
-"__pycache__/\n*.pt\n*.pth\ndata/" 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# PyCharm project settings
+.idea/
+# (Optional: keep only project-level settings and ignore personal ones)
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+
+# Dataset directory
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python package metadata
+*.egg-info/
+dist/
+build/
+
+# Coverage/testing
+htmlcov/
+.tox/
+.coverage
+.cache/
+pytest_cache/
+
+# MyPy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VSCode (if switching editors)
+.vscode/
+
+# Git keepers (you can manually add .gitkeep as needed)
+*.gitkeep
+
